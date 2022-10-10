@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm engine engineer which want to switch to devops philosophy
+I'm engine engineer which want to switch to devops way
 
 **Languages and Tools to learn:**  
 
