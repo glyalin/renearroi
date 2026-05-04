@@ -1,28 +1,40 @@
-### Hi there 👋
-I'm engine engineer which want to switch to devops way
+# Hi there 👋
 
-**Languages and Tools to learn:**  
+I'm a **DevOps / SRE engineer** with 3+ years in infrastructure and platform engineering. Before that, I spent 13 years as an **automotive systems engineer** — programming ECUs, running a training center, and finding ways to automate everything the business threw at me. In 2023 I made a deliberate career switch into IT, and I've been working in SRE ever since, supporting the **App.Farm** PaaS platform built on Kubernetes at RSHB-Intech.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+## 🏗 What I Do
 
-**Base knowledge:**
+I work on **App.Farm** — a Kubernetes-based PaaS that combines an infrastructure platform, an integration platform, and a GitLab CI/CD pipeline, running across 20 clusters (dev, stbl, prod). My day-to-day covers platform operations and reliability, continuously improving the observability stack, direct involvement in incidents with post-mortems and runbooks, and mentoring on-call engineers.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+## 🛠 Tech Stack
 
-<!--
-**renearroi/renearroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Container & Orchestration**
+`Kubernetes` `Helm` `Helmfile` `Kubeone` `Docker` `Istio`
 
-Here are some ideas to get you started:
+**CI/CD & IaC**
+`GitLab CI` `Ansible` `Terraform` `Bash`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Observability**
+`VictoriaMetrics` `VMAlert` `Prometheus` `Grafana` `Vector` `OpenSearch` `ClickHouse`
+
+**Platform Services**
+`Vault` `Keycloak` `Gravitee` `Nexus` `Kafka` `ArtemisMQ` `Postgres`
+
+**OS & Networking**
+`Linux` `Nginx` `TCP/IP` `Proxmox` `Git`
+
+## 📜 Certifications
+
+- 🐧 Administrator Linux. Professional — OTUS (2025)
+- 📊 SRE: data-driven reliability management — Slurm (2024)
+- ⚙️ DevOps Upgrade — Slurm (2023)
+- 🐳 Docker certification (2023)
+- ☸️ Kubernetes: Base + Monitoring & Logging in Kubernetes (2023)
+
+## 🧭 How I Work
+
+I treat debugging as a root-cause discipline — not done until the actual culprit is confirmed. Every fix ships alongside its documentation so the next engineer (or future me) inherits both the solution and the reasoning. I grew from on-call engineer to SRE, and I still believe the best infrastructure work happens when you're close enough to incidents to learn from them.
+
+---
+
+📫 renearroi@rambler.ru &nbsp;|&nbsp; 🇷🇺 Moscow region, Russia &nbsp;|&nbsp; 🌐 English B2
