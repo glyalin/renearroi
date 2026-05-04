@@ -15,7 +15,7 @@ I work on **App.Farm** — a Kubernetes-based PaaS that combines an infrastructu
 `GitLab CI` `Ansible` `Terraform` `Bash`
 
 **Observability**
-`VictoriaMetrics` `VMAlert` `Prometheus` `Grafana` `Vector` `OpenSearch` `ClickHouse`
+`VictoriaMetrics` `Prometheus` `Grafana` `Vector` `OpenSearch` `ClickHouse`
 
 **Platform Services**
 `Vault` `Keycloak` `Gravitee` `Nexus` `Kafka` `ArtemisMQ` `Postgres`
@@ -37,4 +37,4 @@ I treat debugging as a root-cause discipline — not done until the actual culpr
 
 ---
 
-📫 renearroi@rambler.ru &nbsp;|&nbsp; 🇷🇺 Moscow region, Russia &nbsp;|&nbsp; 🌐 English B2
+📫 g@glyalin.ru &nbsp;|&nbsp; 🇷🇺 Moscow region, Russia &nbsp;|&nbsp; 🌐 English B2
